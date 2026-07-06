@@ -24,6 +24,8 @@ If you don't run it via the Windows Executable (or are on Linux/Mac) this it wha
  - Pillow-Heif
  - TKinter (this may already be included if not install this)
 
+For Linux you may want to install python3-pip and python3-venv because last time I coded Python on Linux I felt like I was losing iq points
+
 
 ## Compiling (Optional)
 You can also compile it using PyInstaller (or another tool like Auto Py to Exe), you do NOT have to compile it as Python is interpeted.
