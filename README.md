@@ -1,5 +1,5 @@
 # ImageViewerPlusPlus
-Advanced image viewer I made awhile back that supports [27 image formats across 30 file extensions](#supported-file-extensions/types), the app is built using CustomTKinter for the UI 
+Advanced image viewer I made awhile back that supports [27 image formats across 30 file extensions](#supported-formats), the app is built using CustomTKinter for the UI 
 The program is quite simple in structure its 1 source code file 
 keep in mind its not a fully complete app I made it for fun and I probably won't update it 
 
@@ -32,7 +32,7 @@ run the following command (or paste into auto py to exe)
 ```pyinstaller --noconfirm --onefile --windowed  "path\to\script\imgview.py"```
 it will then output to the `/output` folder in your operating system's executable format (Windows; .exe, Linux; ELF Executable, macOS; mac executable or .app)
 
-## Supported File Extensions/Types
+## Supported formats
  - `.png`
  - `.jpg`
  - `.jpeg`
