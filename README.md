@@ -1,5 +1,5 @@
 # ImageViewerPlusPlus
-Advanced image viewer I made awhile back that supports [27 image formats across 30 file extensions](supported-file-extensions/types), the app is built using CustomTKinter for the UI 
+Advanced image viewer I made awhile back that supports [27 image formats across 30 file extensions](#supported-file-extensions/types), the app is built using CustomTKinter for the UI 
 The program is quite simple in structure its 1 source code file 
 keep in mind its not a fully complete app I made it for fun and I probably won't update it 
 
